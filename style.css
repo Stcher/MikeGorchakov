@@ -83,6 +83,15 @@ img {
   min-width: 100%;
   min-height: 100%;
 }
+h2, p, h1, button {
+    color: white;
+  }
+  .fab:hover {
+    color: white;
+  }
+  .fas:hover {
+    color: white;
+  }
 @media only screen and (max-width: 1000px) {
   #myVideo {
     display: none;
